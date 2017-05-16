@@ -9,6 +9,7 @@ This was a mini assignment given to us for the course, `CS-404: Software enginee
 during the academic year 2016-2017, with the aim to understand the 'html', 'css' and 
 javascript in a software.
 
+![Screenshot](game.jpg)
 
 #### BUILDING AND USING ROBOT:
 
